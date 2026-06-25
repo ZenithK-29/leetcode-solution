@@ -5,10 +5,15 @@ class Solution(object):
         :rtype: int
         """
         
-        i = 0
+        l, r = 0, len(arr) - 1
 
-        while i < len(arr) - 1 and arr[i] < arr[i+1]:
+        while l < r:
 
-            i+=1
+            mid = l + ((r-l)//2)
+
+            if arr[mid] < arr[mid+1]:
+                l = mid + 1
+            else:
+                r = mid
         
-        return i
+        return l
