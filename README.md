@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ZenithK-29/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ZenithK-29/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ZenithK-29/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZenithK-29/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ZenithK-29/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
