@@ -6,15 +6,16 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        count = {}
+        i, j = 0, len(numbers) - 1
 
-        for i in range(len(numbers)):
+        while i < j:
 
-            el = numbers[i]
-            if target - el in count:
-                res = [i+1, count[target-el] + 1]
-                res.sort()
-                return res
+            if numbers[i] + numbers[j] > target:
+                j = j - 1
             
-            count[el] = i
+            elif numbers[i] + numbers[j] < target:
+                i = i + 1
+            
+            else:
+                return [i+1, j+1]
         
