@@ -11,9 +11,9 @@ class Solution(object):
 
         while j < len(haystack):
 
-            substr = haystack[i:j+1]
+            # substr = 
 
-            if substr == needle:
+            if haystack[i:j+1] == needle:
                 return i
             
             else:
