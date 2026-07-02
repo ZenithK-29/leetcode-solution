@@ -13,7 +13,7 @@ class Solution(object):
 
         while j < len(s2):
 
-            countS2 = {}
+           
             countS2 = Counter(s2[i:j+1])
 
             if countS1 == countS2:
@@ -21,5 +21,9 @@ class Solution(object):
             
             i+=1
             j+=1
+
+            if i-1 != 0 and j+1 < len(s2):
+                countS2[s2[i-1]] -=1
+                countS2[s2[j]] +=1
         
         return False
