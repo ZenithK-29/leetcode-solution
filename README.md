@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZenithK-29/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZenithK-29/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ZenithK-29/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZenithK-29/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZenithK-29/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZenithK-29/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
