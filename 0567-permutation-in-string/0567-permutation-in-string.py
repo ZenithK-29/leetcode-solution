@@ -1,29 +1,22 @@
-from collections import Counter
-class Solution(object):
-    def checkInclusion(self, s1, s2):
-        """
-        :type s1: str
-        :type s2: str
-        :rtype: bool
-        """
+class Solution:
+    def checkInclusion(self, s1: str, s2: str) -> bool:
         
         i = 0
         j = len(s1) - 1
-        countS1 = Counter(s1)
+        count_s1 = Counter(s1)
+        count_s2 = Counter(s2[i:j+1])
 
         while j < len(s2):
 
-           
-            countS2 = Counter(s2[i:j+1])
-
-            if countS1 == countS2:
+            if count_s1 == count_s2:
                 return True
             
-            i+=1
-            j+=1
+            count_s2[s2[i]] -=1
 
-            if i-1 != 0 and j+1 < len(s2):
-                countS2[s2[i-1]] -=1
-                countS2[s2[j]] +=1
+            i+=1
+            j +=1
+
+            if j < len(s2):
+                count_s2[s2[j]] +=1
         
         return False
