@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ZenithK-29/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/ZenithK-29/leetcode-solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -127,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
