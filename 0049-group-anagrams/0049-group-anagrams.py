@@ -10,9 +10,7 @@ class Solution:
 
             res[sort_key].append(word)
 
-        for k in res:
-
-            output.append(res[k])
+       
         
-        return output
+        return list(res.values())
 
