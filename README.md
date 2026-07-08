@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ZenithK-29/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ZenithK-29/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0226-invert-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
