@@ -4,25 +4,20 @@ class Solution:
 
         stack = []
         res = [-1] * len(nums)
+        n= len(nums)
 
-        for i in range(2*len(nums)):
+        for i in range(2*n):
 
-            if i<len(nums):
+            idx = i%n
+            num = nums[idx]
 
-                num = nums[i]
+            while stack and stack[-1][0] < num:
+                value, index = stack.pop()
+                res[index] = num
+            
+            if i < n:
+                stack.append([num, idx])
 
-                while stack and stack[-1][0] < num:
-                    value, idx = stack.pop()
-                    res[idx] = num
-
-                stack.append([num, i])
-
-            else:
-                i = i%len(nums)
-
-                while stack and stack[-1][0] < nums[i]:
-                    value, idx = stack.pop()
-                    res[idx] = nums[i]
         
         return res
 
