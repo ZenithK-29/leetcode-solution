@@ -1,29 +1,32 @@
-class Solution(object):
-    def nextGreaterElement(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: List[int]
-        """
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         
+
         stack = []
-        ans = [-1] * len(nums2)
+        res = [-1] * len(nums2)
 
-        for i, num in enumerate(nums2):
-
-            while stack and num > stack[-1][0]:
-                el, idx = stack.pop()
-                ans[idx] = num
-            
-            stack.append((num, i))
-
-        mappings = {}    
-        res = []
+        mapped = defaultdict(int)
+        output = []
 
         for i in range(len(nums2)):
-            mappings[nums2[i]] = ans[i]
-        
-        for num in nums1:
-            res.append(mappings[num])
 
-        return res
+            num = nums2[i]
+
+            while stack and num > stack[-1][0]:
+
+                value, idx = stack.pop()
+                res[idx] = num
+
+            
+            stack.append([num, i])
+
+        for j in range(len(nums2)):
+            mapped[nums2[j]] = res[j]
+        
+        for i in range(len(nums1)):
+
+            if nums1[i] in mapped:
+                output.append(mapped[nums1[i]])
+
+
+        return output
