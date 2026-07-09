@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ZenithK-29/leetcode-solution/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZenithK-29/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
