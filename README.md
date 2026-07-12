@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZenithK-29/leetcode-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ZenithK-29/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0700-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
