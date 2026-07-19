@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/ZenithK-29/leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZenithK-29/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/ZenithK-29/leetcode-solution/tree/master/1046-last-stone-weight) |
 ## Design
 |  |
 | ------- |
