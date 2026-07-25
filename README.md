@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ZenithK-29/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZenithK-29/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ZenithK-29/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/ZenithK-29/leetcode-solution/tree/master/1046-last-stone-weight) |
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
