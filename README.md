@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ZenithK-29/leetcode-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ZenithK-29/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZenithK-29/leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ZenithK-29/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ZenithK-29/leetcode-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZenithK-29/leetcode-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/ZenithK-29/leetcode-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZenithK-29/leetcode-solution/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
