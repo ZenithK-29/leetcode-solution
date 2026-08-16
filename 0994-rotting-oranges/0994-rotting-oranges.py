@@ -1,20 +1,24 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
         
-        ROWS, COLUMNS = len(grid), len(grid[0])
-        fresh = 0
-        time = 0
+
         q = deque()
+        ROWS = len(grid)
+        COLUMNS = len(grid[0])
+        fresh = 0
+        minutes = 0
 
         for r in range(ROWS):
             for c in range(COLUMNS):
 
-                if grid[r][c] == 2:   #to add rotten oranges to queue
-                    q.append([r,c])
-                elif grid[r][c] == 1: #to check for total no if fresh oranges
+                if grid[r][c] == 2:
+                    q.append((r, c))
+                
+                elif grid[r][c] == 1:
                     fresh +=1
         
-        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]] #down, up, right, left
+
+        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
         while q and fresh > 0:
 
@@ -26,17 +30,13 @@ class Solution:
 
                 for dr, dc in directions:
 
-                    nr = row + dr
-                    nc = col + dc
+                    nr, nc = row + dr, col + dc
 
-                    if nr < 0 or nc < 0 or nc >= COLUMNS or nr >= ROWS or grid[nr][nc] != 1:
-                        continue
-                    
-                    grid[nr][nc] = 2
-                    q.append([nr, nc])
-                    fresh -=1
-                
-            time +=1
+                    if 0 <= nr < ROWS and 0 <= nc < COLUMNS and grid[nr][nc] == 1:
+                        grid[nr][nc] = 2
+                        q.append((nr, nc))
+                        fresh -=1
+            
+            minutes +=1
         
-        return time if fresh == 0 else -1
-
+        return minutes if fresh == 0 else -1
