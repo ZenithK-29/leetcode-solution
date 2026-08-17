@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZenithK-29/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Function
 |  |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
