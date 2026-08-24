@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZenithK-29/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
@@ -351,5 +353,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
