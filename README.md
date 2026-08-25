@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ZenithK-29/leetcode-solution/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
