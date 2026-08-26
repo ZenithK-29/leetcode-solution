@@ -1,26 +1,44 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        
-        memo = {}
-        def dfs(left):
 
-            if left == 0:
-                return 0
-        
-            if left < 0:
-                return float("inf")
-        
-            if left in memo:
-                return memo[left]
+        #BOTTOM UP Approach
 
-            ans = float("inf")
+        dp = [float("inf")] * (amount+1)
+        dp[0] = 0
+
+        for a in range(1,amount+1):
+
+            for c in coins:
+
+                if a-c >= 0:
+                    dp[a] = min(dp[a], 1+dp[a-c])
+
+        return dp[amount] if dp[amount] != float("inf") else -1
+
+
+
+
+        # #TOP DOWN APPRACH
+        # memo = {}
+        # def dfs(left):
+
+        #     if left == 0:
+        #         return 0
         
-            for coin in coins:
-                ans =min (ans, 1+dfs(left-coin))
+        #     if left < 0:
+        #         return float("inf")
         
-            memo[left] = ans
-            return ans
+        #     if left in memo:
+        #         return memo[left]
+
+        #     ans = float("inf")
+        
+        #     for coin in coins:
+        #         ans =min (ans, 1+dfs(left-coin))
+        
+        #     memo[left] = ans
+        #     return ans
     
-        res = dfs(amount)
+        # res = dfs(amount)
 
-        return -1 if res == float("inf") else res
+        # return -1 if res == float("inf") else res
