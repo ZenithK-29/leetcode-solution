@@ -12,8 +12,12 @@ class Solution:
 
         for i in range(n-1, -1, -1):
 
+            
+
             newDp = set()
             for t in dp:
+                if nums[i] + t == target:
+                    return True
                 newDp.add(nums[i] + t)
                 newDp.add(t)
             dp = newDp
