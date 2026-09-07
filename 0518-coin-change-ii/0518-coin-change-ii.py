@@ -2,7 +2,8 @@ class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
 
         #Bottom up approach
-        n = len(coins)
+        n = len(coins) # columns
+
         dp = [[0] * (amount+1) for _ in range(n+1)]
 
         for i in range(n+1):
@@ -12,15 +13,16 @@ class Solution:
 
             for j in range(1, amount+1):
 
-                if j >= coins[i-1]:
+                if j-coins[i-1] >= 0:
 
-                    dp[i][j] = dp[i][j - coins[i-1]] + dp[i-1][j]
-                
+                    dp[i][j] = dp[i][j-coins[i-1]] + dp[i-1][j]
+
                 else:
-
                     dp[i][j] = dp[i-1][j]
         
         return dp[n][amount]
+    
+
 
         
         #Top down approach
