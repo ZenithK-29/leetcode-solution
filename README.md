@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ZenithK-29/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ZenithK-29/leetcode-solution/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZenithK-29/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
