@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ZenithK-29/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ZenithK-29/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/ZenithK-29/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
