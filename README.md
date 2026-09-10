@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ZenithK-29/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ZenithK-29/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ZenithK-29/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ZenithK-29/leetcode-solution/tree/master/0091-decode-ways) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
