@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ZenithK-29/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ZenithK-29/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ZenithK-29/leetcode-solution/tree/master/0062-unique-paths) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
