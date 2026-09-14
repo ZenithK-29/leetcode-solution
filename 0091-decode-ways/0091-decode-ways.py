@@ -1,23 +1,22 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
 
-        if not s or s[0] == "0":
-            return 0
+        @cache
+        def dfs(i):
 
-        n = len(s)
-        dp = [0] * (n+1)
-        dp[0] = 1
-        dp[1] = 0 if s[0] == 0 else 1
-
-        for i in range(2, n+1):
-
-            one_digit = int(s[i-1:i])
-            two_digit = int(s[i-2:i])
-
-            if one_digit >= 1:
-                dp[i] += dp[i-1]
+            if i == len(s):
+                return 1
             
-            if two_digit >= 10 and two_digit <= 26:
-                dp[i] += dp[i-2]
+            if s[i] == "0":
+                return 0
+            
+            optionA = dfs(i+1)
+
+            optionB = 0
+
+            if i + 2 <= len(s) and int(s[i:i+2]) in range(10, 27):
+                optionB = dfs(i+2)
+            
+            return (optionA + optionB)
         
-        return dp[n]
+        return dfs(0)
