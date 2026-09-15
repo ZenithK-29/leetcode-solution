@@ -11,5 +11,5 @@ class Solution:
 
             if currSum < 0:
                 currSum = 0
-                
+        
         return maxSum
