@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ZenithK-29/leetcode-solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/ZenithK-29/leetcode-solution/tree/master/0647-palindromic-substrings) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ZenithK-29/leetcode-solution/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
