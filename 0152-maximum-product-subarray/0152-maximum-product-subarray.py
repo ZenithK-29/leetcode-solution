@@ -1,11 +1,10 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         
+        n = len(nums)
+        ans = nums[0]
         leftProd = 1
         rightProd = 1
-        ans = nums[0]
-        n = len(nums)
-
 
         for i in range(n):
 
@@ -16,5 +15,4 @@ class Solution:
             rightProd = nums[n-1-i] * rightProd
 
             ans = max(ans, leftProd, rightProd)
-        
         return ans
