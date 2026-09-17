@@ -4,6 +4,8 @@ class Solution:
         maxLen =0
         n = len(s)
 
+        wordDict = Counter(wordDict)
+
         for word in wordDict:
             if len(word) > maxLen:
                 maxLen = len(word)
