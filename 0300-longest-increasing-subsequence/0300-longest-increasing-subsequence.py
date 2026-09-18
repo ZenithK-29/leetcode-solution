@@ -7,16 +7,11 @@ class Solution:
 
         for i in range(1, n):
 
-            for j in range(0, i):
+            for j in range(i):
 
                 if nums[i] > nums[j]:
 
-                    dp[i] = max(dp[j] + 1, dp[i])
+                    dp[i] = max(dp[i], dp[j]+1)
         
+        return max(dp)
 
-        maxIndex = 0
-        for i in range(n):
-            if dp[i] > dp[maxIndex]:
-                maxIndex = i
-        
-        return dp[maxIndex]
