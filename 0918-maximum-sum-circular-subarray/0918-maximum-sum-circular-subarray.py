@@ -1,0 +1,23 @@
+class Solution:
+    def maxSubarraySumCircular(self, nums: list[int]) -> int:
+        
+        globalMax, globalMin = nums[0], nums[0]
+        currMax, currMin = 0, 0
+        total = 0
+
+        for num in nums:
+            
+            total += num
+
+            currMax = max(currMax + num, num)
+            currMin = min(currMin + num, num)
+            
+            globalMax = max(globalMax, currMax)
+            globalMin = min(globalMin, currMin)
+
+        if globalMax < 0:
+            return globalMax
+        
+        else:
+            return max(globalMax, total-globalMin)
+
