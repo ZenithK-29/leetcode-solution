@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ZenithK-29/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ZenithK-29/leetcode-solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZenithK-29/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0152-maximum-product-subarray) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0136-single-number) |
 ## Union-Find
 |  |
 | ------- |
