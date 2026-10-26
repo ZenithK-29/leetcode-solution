@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ZenithK-29/leetcode-solution/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ZenithK-29/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ZenithK-29/leetcode-solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ZenithK-29/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ZenithK-29/leetcode-solution/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ZenithK-29/leetcode-solution/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ZenithK-29/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ZenithK-29/leetcode-solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0152-maximum-product-subarray) |
