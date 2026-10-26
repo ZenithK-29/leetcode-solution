@@ -1,20 +1,22 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+
+        l = 0
+        r = len(s)-1
         
-        text = "".join(c for c in s if c.isalnum()).lower()
+        while l<r:
 
-        i, j = 0, len(text) - 1
+            if not s[l].isalnum():
+                l+=1
+                continue
+            
+            if not s[r].isalnum():
+                r-=1
+                continue
 
-        while i < j:
-
-            if text[i] != text[j]:
+            if s[l].lower() != s[r].lower():
                 return False
-
-            i+=1
-            j-=1
+            l+=1
+            r-=1
         
         return True
