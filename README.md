@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ZenithK-29/leetcode-solution/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/ZenithK-29/leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZenithK-29/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ZenithK-29/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ZenithK-29/leetcode-solution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ZenithK-29/leetcode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ZenithK-29/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ZenithK-29/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -505,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ZenithK-29/leetcode-solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ZenithK-29/leetcode-solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
