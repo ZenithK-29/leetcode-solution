@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ZenithK-29/leetcode-solution/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/ZenithK-29/leetcode-solution/tree/master/1046-last-stone-weight) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/ZenithK-29/leetcode-solution/tree/master/0771-jewels-and-stones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ZenithK-29/leetcode-solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
@@ -530,4 +532,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ZenithK-29/leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
