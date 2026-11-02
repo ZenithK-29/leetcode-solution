@@ -1,17 +1,17 @@
-class Solution(object):
-    def twoSum(self, nums, target):
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
         
         count = {}
 
         for i in range(len(nums)):
 
-            el = nums[i]
-            if target - el in count:
-                return [i, count[target-el]]
+            count[nums[i]] = i
+        
+        for i in range(len(nums)):
 
-            count[el] = i
+            num = nums[i]
+            compliment = target - num
 
-
-
-
+            if compliment in count and count[compliment] != i:
+                return [i, count[compliment]]
         
