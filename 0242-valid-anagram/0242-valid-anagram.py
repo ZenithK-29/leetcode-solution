@@ -1,18 +1,16 @@
-from collections import Counter
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
 
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
 
-        if len(s) == len(t):
+        countS = {}
+        countT = {}
 
-            if Counter(s) == Counter(t):
-                return True
-        
-        return False
+        for c in s:
+            countS[c] = countS.get(c, 0) + 1
 
-          
+        for c in t:
+            countT[c] = countT.get(c, 0) + 1
+
+        return countS == countT
