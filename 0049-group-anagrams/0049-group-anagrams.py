@@ -1,16 +1,17 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         
-        res = defaultdict(list)
-
+        wordCount = defaultdict(list)
 
         for word in strs:
 
-            sort_key = "".join(sorted(word))
+            sorted_word = "".join(sorted(word))
 
-            res[sort_key].append(word)
-
-       
+            wordCount[sorted_word].append(word)
         
-        return list(res.values())
+        res = []
 
+        for word in wordCount.values():
+            res.append(word)
+        
+        return res
