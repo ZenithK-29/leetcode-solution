@@ -1,22 +1,26 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         
-        i = 0
-        j = len(s1) - 1
-        count1 = Counter(s1)
-        count2 = Counter(s2[i:j+1])
+        count_1 = Counter(s1)
 
-        while j < len(s2):
+        count_2 = {}
 
-            if count1 == count2:
-                return True
+        l = 0
+
+        for r in range(len(s2)):
+
+            count_2[s2[r]] = count_2.get(s2[r], 0) + 1
+
+            while r-l+1 > len(s1):
+
+                count_2[s2[l]] -=1
+
+                if count_2[s2[l]] == 0:
+                    del count_2[s2[l]]
+                
+                l+=1
             
-            count2[s2[i]] -=1
-
-            i +=1
-            j +=1
-
-            if j < len(s2):
-                count2[s2[j]] +=1
+            if count_1 == count_2:
+                return True
         
         return False
