@@ -1,18 +1,19 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         
-        n = len(nums)
-        ans = nums[0]
-        leftProd = 1
-        rightProd = 1
+        min_best = nums[0]
+        max_best = nums[0]
+        res = nums[0]
 
-        for i in range(n):
+        for i in range(1, len(nums)):
 
-            leftProd = 1 if leftProd == 0 else leftProd
-            rightProd = 1 if rightProd == 0 else rightProd
+            v1 = nums[i]
+            v2 = nums[i] * max_best
+            v3 = nums[i] * min_best
 
-            leftProd = nums[i] * leftProd
-            rightProd = nums[n-1-i] * rightProd
+            max_best = max(v1, v2, v3)
+            min_best = min(v1, v2, v3)
 
-            ans = max(ans, leftProd, rightProd)
-        return ans
+            res = max(res, max_best, min_best)
+        
+        return res
