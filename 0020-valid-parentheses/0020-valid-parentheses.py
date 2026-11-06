@@ -1,7 +1,7 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         
-        mapping = {
+        brackets = {
             ')': '(',
             ']': '[',
             '}': '{'
@@ -11,12 +11,14 @@ class Solution:
 
         for br in s:
 
-            if br in mapping:
-                if not stack or stack[-1] != mapping[br]:
+            if br in brackets:
+                if stack and stack[-1] == brackets[br]:
+                    stack.pop()
+                
+                else:
                     return False
-                stack.pop()
             
             else:
                 stack.append(br)
         
-        return len(stack) == 0
+        return True if not stack else False
