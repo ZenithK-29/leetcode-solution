@@ -1,32 +1,20 @@
 class Solution:
-    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+    def nextGreaterElement(self, nums1: list[int], nums2: list[int]) -> list[int]:
         
-
+        res = [-1] * len(nums1)
         stack = []
-        res = [-1] * len(nums2)
-
-        mapped = defaultdict(int)
-        output = []
+        nums1Idx = {num: i for i, num in enumerate(nums1)}
 
         for i in range(len(nums2)):
 
-            num = nums2[i]
+            curr = nums2[i]
 
-            while stack and num > stack[-1][0]:
+            while stack and stack[-1] < curr:
+                val = stack.pop()
+                idx = nums1Idx[val]
+                res[idx] = curr
 
-                value, idx = stack.pop()
-                res[idx] = num
+            if curr in nums1Idx:
+                stack.append(curr)
 
-            
-            stack.append([num, i])
-
-        for j in range(len(nums2)):
-            mapped[nums2[j]] = res[j]
-        
-        for i in range(len(nums1)):
-
-            if nums1[i] in mapped:
-                output.append(mapped[nums1[i]])
-
-
-        return output
+        return res 
