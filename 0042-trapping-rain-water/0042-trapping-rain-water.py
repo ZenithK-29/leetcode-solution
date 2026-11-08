@@ -7,15 +7,38 @@ class Solution:
         left[0] = height[0]
         right[n-1] = height[n-1]
 
+        water = 0
+
         for i in range(1, n):
-            left[i] = max(left[i-1], height[i])
-
+            left[i] = max(height[i], left[i-1])
         for i in range(n-2, -1, -1):
-            right[i] = max(right[i+1], height[i])
-
+            right[i] = max(height[i], right[i+1])
+        
         totalWater = 0
 
         for i in range(n):
-            totalWater += min(left[i], right[i]) - height[i]
+            water = min(left[i], right[i]) - height[i]
+            totalWater += water
+        
+        return totalWater
 
-        return totalWater 
+
+
+        # n = len(height)
+        # left = [0] * n
+        # right = [0] * n
+        # left[0] = height[0]
+        # right[n-1] = height[n-1]
+
+        # for i in range(1, n):
+        #     left[i] = max(left[i-1], height[i])
+
+        # for i in range(n-2, -1, -1):
+        #     right[i] = max(right[i+1], height[i])
+
+        # totalWater = 0
+
+        # for i in range(n):
+        #     totalWater += min(left[i], right[i]) - height[i]
+
+        # return totalWater 
