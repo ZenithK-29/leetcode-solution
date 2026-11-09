@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
