@@ -9,7 +9,7 @@ class Solution:
                 res.append(newInterval)
                 return res + intervals[i:]
             
-            elif intervals[i][1] < newInterval[0]:
+            elif newInterval[0] > intervals[i][1]:
                 res.append(intervals[i])
             
             else:
