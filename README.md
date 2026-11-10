@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ZenithK-29/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/ZenithK-29/leetcode-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ZenithK-29/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ZenithK-29/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/ZenithK-29/leetcode-solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
