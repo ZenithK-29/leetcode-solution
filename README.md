@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZenithK-29/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ZenithK-29/leetcode-solution/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ZenithK-29/leetcode-solution/tree/master/0704-binary-search) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ZenithK-29/leetcode-solution/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0494-target-sum) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ZenithK-29/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZenithK-29/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZenithK-29/leetcode-solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ZenithK-29/leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ZenithK-29/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ZenithK-29/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ZenithK-29/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ZenithK-29/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ZenithK-29/leetcode-solution/tree/master/0724-find-pivot-index) |
