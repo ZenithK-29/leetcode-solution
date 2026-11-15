@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ZenithK-29/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ZenithK-29/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ZenithK-29/leetcode-solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ZenithK-29/leetcode-solution/tree/master/0055-jump-game) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ZenithK-29/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ZenithK-29/leetcode-solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ZenithK-29/leetcode-solution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ZenithK-29/leetcode-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ZenithK-29/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ZenithK-29/leetcode-solution/tree/master/0079-word-search) |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ZenithK-29/leetcode-solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ZenithK-29/leetcode-solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
