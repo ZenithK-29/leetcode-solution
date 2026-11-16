@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ZenithK-29/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/ZenithK-29/leetcode-solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ZenithK-29/leetcode-solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ZenithK-29/leetcode-solution/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ZenithK-29/leetcode-solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## String Matching
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ZenithK-29/leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ZenithK-29/leetcode-solution/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ZenithK-29/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Function
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ZenithK-29/leetcode-solution/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZenithK-29/leetcode-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ZenithK-29/leetcode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Database
 |  |
 | ------- |
