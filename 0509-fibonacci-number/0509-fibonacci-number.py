@@ -16,4 +16,4 @@ class Solution:
 
         dp[n] = a1 + a2
         
-        return dp[n]
+        return a1+a2
