@@ -1,25 +1,24 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
+    def rob(self, nums: list[int]) -> int:
 
-        #BUA
-
-        n = len(nums)
-
-        if n==1:
-            return nums[0]
+        dp = {}
         
-        if n==2:
-            return max(nums[0], nums[1])
+        def dfs(i, free):
 
+            if i == len(nums):
+                return 0
 
-        dp = [0] * n
+            if (i, free) in dp:
+                return dp[(i, free)]
+            
+            if free == 0:
+                return dfs(i+1, 1)
+            
+            houseToRob = nums[i] + dfs(i+1, 0)
+            houseToSkip = dfs(i+1, 1)
 
-        dp[0] = nums[0]
-        dp[1] = max(nums[0], nums[1])
+            dp[(i, free)] = max(houseToRob, houseToSkip)
 
-        for i in range(2, n):
-
-            dp[i] = max(dp[i-1], nums[i] + dp[i-2])
+            return max(houseToRob, houseToSkip)
         
-        return dp[n-1]
-    
+        return dfs(0, 1)
