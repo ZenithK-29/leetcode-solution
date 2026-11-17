@@ -19,6 +19,6 @@ class Solution:
 
             dp[(i, free)] = max(houseToRob, houseToSkip)
 
-            return max(houseToRob, houseToSkip)
+            return dp[(i, free)]
         
         return dfs(0, 1)
