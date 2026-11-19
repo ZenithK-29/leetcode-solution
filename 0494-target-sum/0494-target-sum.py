@@ -1,23 +1,27 @@
 class Solution:
-    def findTargetSumWays(self, nums: List[int], target: int) -> int:
-        
+    def findTargetSumWays(self, nums: list[int], target: int) -> int:
+
         dp = {}
-        def dfs(i, currSum):
+        
+        def dfs(i, summ):
 
-            if i == len(nums) and currSum == target:
-                return 1
+            if (i, summ) in dp:
+                return dp[(i, summ)]
+
+            if i == len(nums):
+                if summ == target:
+                    dp[(i, summ)] = 1
+                    return dp[(i, summ)]
+                else:
+                    dp[(i, summ)] = 0
+                    return dp[(i, summ)]
+
             
-            if i == len(nums) and currSum != target:
-                return 0
+            neg = dfs(i+1, summ-nums[i])
+            pos = dfs(i+1, summ+nums[i])
 
-            if (i, currSum) in dp:
-                return dp[(i, currSum)]
-            
-            first_option = dfs(i+1, nums[i] + currSum)
-            second_option = dfs(i+1, -nums[i] + currSum)
+            dp[(i, summ)] = neg + pos
 
-            dp[(i, currSum)] = first_option + second_option
-
-            return dp[(i, currSum)]
+            return neg + pos
         
         return dfs(0, 0)
