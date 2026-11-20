@@ -1,6 +1,8 @@
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
         
+        if amount < 1:
+            return 0
 
 
         dp = [float("inf")] * (amount+1)
