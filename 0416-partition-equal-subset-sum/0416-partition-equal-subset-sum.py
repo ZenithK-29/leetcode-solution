@@ -1,24 +1,21 @@
 class Solution:
-    def canPartition(self, nums: List[int]) -> bool:
+    def canPartition(self, nums: list[int]) -> bool:
         
-        if sum(nums) % 2 != 0:
+        totalSum = sum(nums)
+
+        if totalSum % 2 != 0:
             return False
-        
-        n = len(nums)
-        dp =set()
-        dp.add(0)
-        target = sum(nums) / 2
 
-        for i in range(n-1, -1, -1):
+        target = int(totalSum / 2)
 
-            newDp = set()
+        dp = [False] * (target+1)
 
-            for num in dp:
-                newDp.add(nums[i] + num)
-            dp.update(newDp)
-        
-        return True if target in dp else False
+        dp[0] = True
 
-        
-        
-        
+        for num in nums:
+            for i in range(target, num-1, -1):
+
+                if dp[i - num]:
+                    dp[i] = True
+    
+        return dp[target]
